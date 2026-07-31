@@ -134,7 +134,7 @@ _vti_bin
 _vti_cnf
 _vti_pvt
 _vti_txt
-_www
+www
 a
 aa
 aaa
@@ -164,7 +164,7 @@ addpost
 addressbook
 adm
 admin
-admin_
+admin
 adodb
 ads
 adv
