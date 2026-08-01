@@ -4,6 +4,7 @@
 .history
 .htaccess
 .htpasswd
+basic 
 .passwd
 .perf
 .ssh
