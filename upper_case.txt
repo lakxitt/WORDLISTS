@@ -4,6 +4,7 @@ Admin
 Amount
 Amounts
 Api
+Adminastor
 Apis
 Api-metric
 Api-metrics
